@@ -1,3 +1,4 @@
+fullData.csv
 .ipynb_checkpoints/
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -112,4 +113,3 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
-.pyre/
